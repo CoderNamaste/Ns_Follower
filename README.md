@@ -1,7 +1,7 @@
 # Ns_Follower
 
 ## 🚀 About the Project
-**Ns_Follower** is a tool for reverse engineering the Ns Followers app, designed to demonstrate methods for increasing coins without following other users. This project serves educational purposes, aiming to deepen understanding of app security and software behavior.
+**Ns_Follower** is designed to demonstrate methods for increasing coins without following other users. This project serves educational purposes, aiming to deepen understanding of app security and software behavior.
 
 ## ⚠️ Disclaimer
 **Important:** This project is for **educational and ethical testing purposes only**. Any misuse of this software for illegal activities is strictly prohibited, and the user assumes full responsibility. The authors accept no liability for any consequences that arise from such use.
